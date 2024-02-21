@@ -1,0 +1,15 @@
+# ninja log v5
+6	400	6934939338480599	build.ninja	8bcc86ce54f03103
+4	118	6889477623083469	CMakeFiles/contest_3.dir/10_2.c.obj	515350bc300f53f7
+87	175	6933971093632281	contest_3.exe	2f0adadf90a41894
+2	131	6889393791552970	CMakeFiles/contest_3.dir/2.c.obj	3ae13af8fb392f79
+4	143	6889387109425774	CMakeFiles/contest_3.dir/1.c.obj	ba14275be47478f2
+4	141	6889497955789476	CMakeFiles/contest_3.dir/8.c.obj	c3d6811c21c71d53
+5	121	6889420031186678	CMakeFiles/contest_3.dir/11.c.obj	a0687695cec96e38
+0	118	6889473689887107	CMakeFiles/contest_3.dir/10.c.obj	b82805936282b2b2
+3	135	6893421102519967	CMakeFiles/contest_3.dir/20.c.obj	466f5633f329d56c
+3	81	6897275299593308	CMakeFiles/contest_3.dir/15.c.obj	ed56441e5cc0e097
+6	273	6897798657444988	CMakeFiles/contest_3.dir/18.c.obj	ea60be5a0ea803c5
+3	156	6898619059863564	CMakeFiles/contest_3.dir/22.c.obj	c8eb3162931c0215
+0	201	6933964660093923	CMakeFiles/contest_3.dir/3_15.c.obj	9770c7e46f7c17ba
+0	86	6933971092788420	CMakeFiles/contest_3.dir/3_18.c.obj	ba9e9fcbbfa3e909

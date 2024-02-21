@@ -1,0 +1,23 @@
+# ninja log v5
+1	139	7033739380511356	build.ninja	827a6b262d4771c8
+4	232	6929755846361341	CMakeFiles/contest_6.dir/tester.c.obj	f17a4969d449c5b1
+3	194	6927921664728450	CMakeFiles/contest_6.dir/6_2.c.obj	35f7fc26dba03fd3
+370	716	7032692775811573	contest_6.exe	d2b4f5eeb6dc0a75
+1	192	6930021785006223	CMakeFiles/contest_6.dir/test.c.obj	4aa3e4ee0431a17
+3	186	6928143733625451	CMakeFiles/contest_6.dir/6_3.c.obj	1fcbd7bf5565c053
+2	114	6930548041545160	CMakeFiles/contest_6.dir/6_12.c.obj	9bcf74a19e344484
+0	369	7032692772388561	CMakeFiles/contest_6.dir/6_10.c.obj	bd9bee0f8cf85028
+0	107	6930061952145671	CMakeFiles/contest_6.dir/12.c.obj	2ee73a4e2c73e633
+2	107	6930259966211519	CMakeFiles/contest_6.dir/compressed_trie.c.obj	fd41e71739414033
+2	84	6930258623649715	CMakeFiles/contest_6.dir/tester_6_12.c.obj	6622eb94871a1496
+1	163	6930754726872008	CMakeFiles/contest_6.dir/6_18.c.obj	f00c0fec06dd7d49
+0	104	6930731353274732	CMakeFiles/contest_6.dir/tester_6_18.c.obj	d8c1bb85b3940ded
+2	91	6930730019737905	CMakeFiles/contest_6.dir/not_contest_18.c.obj	847b746979efc823
+2	88	6933419000937163	CMakeFiles/contest_6.dir/6_14.c.obj	20e8efa1b1cfddba
+3	162	6935854794618871	CMakeFiles/contest_6.dir/list.c.obj	af080d51b7f3b07f
+1	197	7033739392159699	CMakeFiles/contest_6.dir/6_3_=_6_16.c.obj	28b70feafc283b4a
+198	491	7033739395055923	contest_6.exe	d6249e4d9e61fff8
+4	185	7033777996590206	CMakeFiles/contest_6.dir/6_3_=_6_16.c.obj	28b70feafc283b4a
+186	572	7033778000023573	contest_6.exe	d6249e4d9e61fff8
+3	148	7033778676617925	CMakeFiles/contest_6.dir/6_3_=_6_16.c.obj	28b70feafc283b4a
+149	292	7033778677981960	contest_6.exe	d6249e4d9e61fff8

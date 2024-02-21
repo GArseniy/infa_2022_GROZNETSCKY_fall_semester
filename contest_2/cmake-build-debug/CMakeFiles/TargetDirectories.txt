@@ -1,0 +1,3 @@
+C:/CLion_Projects/contest_2/cmake-build-debug/CMakeFiles/contest_2.dir
+C:/CLion_Projects/contest_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLion_Projects/contest_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

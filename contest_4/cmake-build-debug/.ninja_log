@@ -1,0 +1,13 @@
+# ninja log v5
+4	164	6906365833336383	CMakeFiles/contest_4.dir/PI_function.c.obj	85d6fdb795d630c2
+4	169	6907603519860360	CMakeFiles/contest_4.dir/4_11.c.obj	c30a07942c32119a
+149	310	6911800495088167	contest_4.exe	3d6d5d4c609b38a2
+2	74	6906420240945131	CMakeFiles/contest_4.dir/1.c.obj	7ded75bda6220ec2
+2	68	6906497005254533	CMakeFiles/contest_4.dir/4_4.c.obj	8eb8b66e32c93b17
+2	82	6906470320496852	CMakeFiles/contest_4.dir/2.c.obj	c475b3b45b9f07c
+1	154	6933196382989381	build.ninja	a2e3cbb8dca7fe13
+3	75	6907656859758723	CMakeFiles/contest_4.dir/4_8.c.obj	e4853adde6c08876
+4	148	6911800493528536	CMakeFiles/contest_4.dir/4_14.c.obj	af246771932a034
+2	100	6908503222822885	CMakeFiles/contest_4.dir/4_16.c.obj	f381dd6324d9b9b2
+4	197	6911082261349060	CMakeFiles/contest_4.dir/4_17.c.obj	283fafab0841323d
+2	94	6911724253129444	CMakeFiles/contest_4.dir/not_contest_4_17.c.obj	f2e67007737796e4
