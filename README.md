@@ -1,1 +1,1 @@
-# infa_2022_GROZNETSCKY_fall_semester
+# 2022 MSU: Algorithms and Data Structures course on C
